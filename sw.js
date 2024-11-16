@@ -1,12 +1,12 @@
 const preCache = [
   "/images/taichi.png",
-  "/images/banner.webp",
+  "https://gitee.com/hghppl/picture/raw/master/Blog/2024background.jpg",
   "/images/taichi-fill.png",
   "/css/loader.css",
   "/css/style.css",
   "/js/script.js",
 ];
-const VERSION = "1731674635837";
+const VERSION = "1731732523816";
 const cacheDomain = [
   "fonts.googleapis.com",
   "npm.webcache.cn",
