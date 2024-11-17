@@ -4,11 +4,11 @@
   
     
     <entry>
-      <title>Hello World</title>
-      <link href="/2024/11/16/hello-world/"/>
-      <url>/2024/11/16/hello-world/</url>
+      <title>宝可梦改版资源--首篇记录</title>
+      <link href="/2024/11/16/%E5%AE%9D%E5%8F%AF%E6%A2%A6%E6%94%B9%E7%89%88%E8%B5%84%E6%BA%90--%E9%A6%96%E7%AF%87%E8%AE%B0%E5%BD%95/"/>
+      <url>/2024/11/16/%E5%AE%9D%E5%8F%AF%E6%A2%A6%E6%94%B9%E7%89%88%E8%B5%84%E6%BA%90--%E9%A6%96%E7%AF%87%E8%AE%B0%E5%BD%95/</url>
       
-        <content type="html"><![CDATA[<h2 id="Record-the-blog-about-the-redesign-and-production-of-Pokemon"><a href="#Record-the-blog-about-the-redesign-and-production-of-Pokemon" class="headerlink" title="Record the blog about the redesign and production of Pokémon"></a>Record the blog about the redesign and production of Pokémon</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+        <content type="html"><![CDATA[<p><a href="https://weibo.com/ttarticle/p/show?id=2309404540770672836846">口袋改版资源吧资源导航</a></p><p><a href="%5Bhttps://%5D(https://wiki.52poke.com/wiki/%E4%B8%BB%E9%A1%B5?continueFlag=d0f4530be307d21712226b963a96d9bf)">宝可梦百科</a></p><p>版权来自口袋改版资源吧，<strong>所有资源严禁任何形式商用，若是有任何疑问请到 <strong><a href="https://weibo.cn/sinaurl?u=https://tieba.baidu.com/f?kw=%25E5%258F%25A3%25E8%25A2%258B%25E6%2594%25B9%25E7%2589%2588%25E8%25B5%2584%25E6%25BA%2590&ie=utf-8"><strong>口袋改版资源吧</strong></a></strong> 置顶询问</strong></p>]]></content>
       
       
       
